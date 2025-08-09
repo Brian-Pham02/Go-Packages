@@ -1,3 +1,6 @@
 [submodule "Go-Linked-List"]
 	path = Go-Linked-List
 	url = https://github.com/Brian-Pham02/Go-Linked-List
+[submodule "Go-Stack"]
+	path = Go-Stack
+	url = https://github.com/Brian-Pham02/Go-Stack
