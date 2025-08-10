@@ -4,3 +4,6 @@
 [submodule "Go-Stack"]
 	path = Go-Stack
 	url = https://github.com/Brian-Pham02/Go-Stack
+[submodule "Go-Deque"]
+	path = Go-Deque
+	url = https://github.com/Brian-Pham02/Go-Deque
